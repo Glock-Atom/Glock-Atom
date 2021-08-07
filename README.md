@@ -47,4 +47,5 @@
 
 <br>
   
-  <h2>My Website <br> <a href="https://glockatom.ml" target="_blank">My personal Website</a></h2>
+  <h2>My Website</h2>
+  <a href="https://glockatom.ml" target="_blank">My personal Website</a>
