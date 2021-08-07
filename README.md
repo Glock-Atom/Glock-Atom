@@ -14,7 +14,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-  <h2>My website<a href="glockatom.ml" target="_blank></a></h2>
+
 
 
 - 💬 Talk to me about Python, JavaScript, Open Source 
