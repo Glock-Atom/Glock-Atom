@@ -48,4 +48,4 @@
 <br>
   
   <h2>My Website</h2>
-  <a href="http://glockatom.ml" target="_blank">My personal Website</a>
+  <a href="http://glockatom.com" target="_blank">My personal Website</a>
